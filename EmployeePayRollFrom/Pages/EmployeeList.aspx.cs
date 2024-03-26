@@ -176,8 +176,8 @@ namespace EmployeePayRollFrom.Pages
                 SqlDataAdapter sd = new SqlDataAdapter(cmd);
                 DataTable dt = new DataTable();
                 sd.Fill(dt);
-                GridView3.DataSource= dt;
-                GridView3.DataBind();
+                GridView2.DataSource= dt;
+                GridView2.DataBind();
             }
         }
 

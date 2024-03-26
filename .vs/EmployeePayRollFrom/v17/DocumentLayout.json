@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeePayRollFrom\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4F06FA8-7F37-48E9-8EAE-81A08E847BE1}|EmployeePayRollFrom\\EmployeePayRollFrom.csproj|C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeePayRollFrom\\employeepayrollfrom\\pages\\employeelist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4F06FA8-7F37-48E9-8EAE-81A08E847BE1}|EmployeePayRollFrom\\EmployeePayRollFrom.csproj|c:\\users\\ramisettylokesh\\source\\repos\\employeepayrollfrom\\employeepayrollfrom\\pages\\employeelist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4F06FA8-7F37-48E9-8EAE-81A08E847BE1}|EmployeePayRollFrom\\EmployeePayRollFrom.csproj|solutionrelative:employeepayrollfrom\\pages\\employeelist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4F06FA8-7F37-48E9-8EAE-81A08E847BE1}|EmployeePayRollFrom\\EmployeePayRollFrom.csproj|c:\\users\\ramisettylokesh\\source\\repos\\employeepayrollfrom\\employeepayrollfrom\\pages\\employeelist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{F4F06FA8-7F37-48E9-8EAE-81A08E847BE1}|EmployeePayRollFrom\\EmployeePayRollFrom.csproj|C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeePayRollFrom\\employeepayrollfrom\\pages\\employeelist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{F4F06FA8-7F37-48E9-8EAE-81A08E847BE1}|EmployeePayRollFrom\\EmployeePayRollFrom.csproj|solutionrelative:employeepayrollfrom\\pages\\employeelist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4F06FA8-7F37-48E9-8EAE-81A08E847BE1}|EmployeePayRollFrom\\EmployeePayRollFrom.csproj|C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeePayRollFrom\\employeepayrollfrom\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{F4F06FA8-7F37-48E9-8EAE-81A08E847BE1}|EmployeePayRollFrom\\EmployeePayRollFrom.csproj|solutionrelative:employeepayrollfrom\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4F06FA8-7F37-48E9-8EAE-81A08E847BE1}|EmployeePayRollFrom\\EmployeePayRollFrom.csproj|C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeePayRollFrom\\employeepayrollfrom\\pages\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{F4F06FA8-7F37-48E9-8EAE-81A08E847BE1}|EmployeePayRollFrom\\EmployeePayRollFrom.csproj|solutionrelative:employeepayrollfrom\\pages\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F06FA8-7F37-48E9-8EAE-81A08E847BE1}|EmployeePayRollFrom\\EmployeePayRollFrom.csproj|C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeePayRollFrom\\employeepayrollfrom\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F4F06FA8-7F37-48E9-8EAE-81A08E847BE1}|EmployeePayRollFrom\\EmployeePayRollFrom.csproj|solutionrelative:employeepayrollfrom\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4F06FA8-7F37-48E9-8EAE-81A08E847BE1}|EmployeePayRollFrom\\EmployeePayRollFrom.csproj|C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeePayRollFrom\\employeepayrollfrom\\pages\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "EmployeePayRollFrom\\Pages\\Default.aspx",
               "ToolTip": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeePayRollFrom\\EmployeePayRollFrom\\Pages\\Default.aspx",
               "RelativeToolTip": "EmployeePayRollFrom\\Pages\\Default.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-03-25T12:08:49.786Z",
               "EditorCaption": ""
@@ -88,13 +88,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.aspx",
               "DocumentMoniker": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeePayRollFrom\\EmployeePayRollFrom\\Pages\\Login.aspx",
               "RelativeDocumentMoniker": "EmployeePayRollFrom\\Pages\\Login.aspx",
               "ToolTip": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeePayRollFrom\\EmployeePayRollFrom\\Pages\\Login.aspx",
               "RelativeToolTip": "EmployeePayRollFrom\\Pages\\Login.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-03-25T10:52:05.194Z",
               "EditorCaption": ""
@@ -107,14 +107,14 @@
               "RelativeDocumentMoniker": "EmployeePayRollFrom\\Pages\\EmployeeList.aspx.cs",
               "ToolTip": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeePayRollFrom\\EmployeePayRollFrom\\Pages\\EmployeeList.aspx.cs",
               "RelativeToolTip": "EmployeePayRollFrom\\Pages\\EmployeeList.aspx.cs",
-              "ViewState": "AQIAAJsAAAAAAAAAAAAuwK0AAAANAAAA",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAAALMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-22T06:51:27.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Register.aspx",
               "DocumentMoniker": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeePayRollFrom\\EmployeePayRollFrom\\Pages\\Register.aspx",
               "RelativeDocumentMoniker": "EmployeePayRollFrom\\Pages\\Register.aspx",
@@ -159,7 +159,7 @@
               "RelativeDocumentMoniker": "EmployeePayRollFrom\\Pages\\UserDetails.aspx",
               "ToolTip": "C:\\Users\\Ramisettylokesh\\source\\repos\\EmployeePayRollFrom\\EmployeePayRollFrom\\Pages\\UserDetails.aspx",
               "RelativeToolTip": "EmployeePayRollFrom\\Pages\\UserDetails.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-03-25T16:41:32.668Z",
               "EditorCaption": ""
